@@ -1,0 +1,3 @@
+Description: The current detection logic is based on process names. Let’s expand it to include memory usage, parent process, and known malware signatures.
+
+Labels: enhancement, AI, help wanted
