@@ -1,3 +1,0 @@
-Description: We need a module that monitors downloaded files and documents. It should flag suspicious extensions (e.g. .exe, .bat, .scr) and optionally quarantine them.
-
-Labels: enhancement, security, help wanted
