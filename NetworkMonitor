@@ -1,0 +1,3 @@
+Description: Build a module that monitors active network connections and flags suspicious IPs or domains. Bonus: integrate with public threat lists.
+
+Labels: feature, network, security
