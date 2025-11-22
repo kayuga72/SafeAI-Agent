@@ -31,6 +31,5 @@ Together we build a safe digital future.
 
 ## 📌 Installation (Proof-of-Concept)
 1. Clone the repo:
-   ```bash
-   git clone https://github.com/<your-username>/SafeAI-Agent.git
-   cd SafeAI-Agent
+
+  
